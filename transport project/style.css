@@ -1,0 +1,143 @@
+#left{
+    text-align: center;
+    width: 50%;
+    float: left;
+    font-size: larger;
+    font-style: oblique;
+    font-family: fantasy;
+}
+#right{
+    
+    text-align: center;
+    width: 50%;
+    float: right;
+    font-size: larger;
+    font-style: oblique;
+    font-family: fantasy;
+}
+body{
+    background-color: rgb(235, 235, 232);
+}
+#all{
+    width: 960px;
+    height: 1900px;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid rgb(219, 243, 6);
+    border-radius: 35px;
+    background-image: url(images/pexels-karolina-grabowska-4705833.jpg);
+    box-shadow: -20px 20px 5px  rgb(214, 136, 136);
+    
+}
+#enqtotal,#servtotal,#abt{
+    padding: 15px;
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid rgb(207, 243, 6);
+    border-radius: 35px;
+    background-image: url(images/pexels-karolina-grabowska-4705833.jpg);
+    box-shadow: -20px 20px 5px  rgb(0, 255, 34);  
+}
+#enquiry{
+    width: 960px;
+    height: max-content;
+}
+a{
+    background-color: rgb(220, 154, 240);
+    padding: 1rem;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-family: fantasy;
+    text-decoration: none;
+
+}
+#branches{
+    list-style-type: none;
+    border: 2px dotted rgb(91, 69, 218);
+    margin: 0 auto;
+    padding: 2px;
+    width: fit-content;
+    float: right;
+    background-color: beige;
+    border-radius: 12px;
+    margin-right: 55px;
+    margin-bottom: 15px;
+}
+
+#one{
+   border: 2px solid black; 
+   margin: 0 auto;
+   padding-right: 5px;
+   margin-right: 55px;
+   width: 60%;
+   border-radius: 15px;
+   margin-bottom: 40px;
+   background-color: aqua;
+}
+#two{
+    background-color: aqua;
+   border: 2px solid black; 
+   margin: 0 auto;
+   padding-right: 5px;
+   margin-right: 55px;
+   width: 60%;
+   border-radius: 15px;
+   
+   margin-bottom: 40px;
+}
+#three{
+    
+   border: 2px solid black; 
+   margin: 0 auto;
+   padding-right: 5px;
+   margin-right: 55px;
+   width: 60%;
+   border-radius: 15px;
+   background-color: aqua;
+}
+#company{
+    font-family: fantasy;
+    padding: 15px;
+    font-size: 4rem;
+    color: rgb(2, 2, 2);
+    font-style: italic;
+    text-decoration: underline ;
+
+}
+#all{
+    background-color: rgb(255, 230, 0);
+    margin-top: 0 auto;
+    margin-bottom: 0 auto;
+}
+#frmenq{
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 25px;
+    width: 50%;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: rgb(131, 156, 179);
+    font-family: fantasy;
+    text-align: center;
+}
+#servtext,#abttext{
+text-align: justify;
+margin: 0 auto;
+padding: 25px;
+}
+#tt{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: -3px 3px rgb(255, 250, 250);
+}
+#welcome{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: fantasy;
+    font-style: italic;
+    text-decoration: underline;
+}
